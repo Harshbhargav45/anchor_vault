@@ -6,3 +6,7 @@ target
 node_modules
 test-ledger
 .yarn
+*.log
+*-keypair.json
+id.json
+package-lock.json
